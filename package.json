@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "devStart": "nodemon index.js",
     "lint": "eslint **/*.js",
     "test": "jest --verbose --coverage",
     "test-watch": "jest --watchAll --verbose --coverage"
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/randee-401-advanced-javascript/lab-07B#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "logger": "0.0.1"
   }
 }

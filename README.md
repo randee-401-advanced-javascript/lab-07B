@@ -3,8 +3,8 @@
 **Author:** Randee Orion
 **Links and Resources**
 
-[gitHub PR]()
-[gitHub Actions]()
+[gitHub PR](https://github.com/randee-401-advanced-javascript/lab-07B/pull/1)
+[gitHub Actions](https://github.com/randee-401-advanced-javascript/lab-07B/tree/master/.github/workflows)
 
 
 back-end server url (when applicable)
