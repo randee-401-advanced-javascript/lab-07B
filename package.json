@@ -22,6 +22,7 @@
   "homepage": "https://github.com/randee-401-advanced-javascript/lab-07B#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "logger": "0.0.1"
+    "express-swagger-generator": "^1.1.17",
+    "jest": "^25.3.0"
   }
 }
