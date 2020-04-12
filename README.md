@@ -39,15 +39,13 @@ Link to an image of the UML for your application and response to events
 [gitHub Actions](https://github.com/randee-401-advanced-javascript/lab-07B/tree/master/.github/workflows)
 
 
-back-end server url (when applicable)
-front-end application (when applicable)
-Setup
-.env requirements (where applicable)
-i.e.
+
+
 
 PORT - 3000
 
 How to initialize/run your application
 Once the repo has been cloned down locally it can be run in the terminal with 
+- npm start || npm run startDev
 
-npm start || npm run startDev
+or it can be run from[Heroku here](https://lab07-09.herokuapp.com/)

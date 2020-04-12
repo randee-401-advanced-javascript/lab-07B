@@ -5,4 +5,3 @@ const supergoose = require('@code-fellows/supergoose');
 
 const mocRequest = supergoose(app.server);
 
-describe('')
