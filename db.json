@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "winter",
+      "display_name": "winter"
+    },
+    {
+      "id": 2,
+      "name": "spring",
+      "display_name": "spring"
+    },
+    {
+      "id": 3,
+      "name": "summer",
+      "display_name": "summer"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "kale",
+      "category": "winter"
+    },
+    {
+      "id": 2,
+      "name": "pea",
+      "category": "winter"
+    },
+    {
+      "id": 3,
+      "name": "bean",
+      "category": "spring"
+    }
+  ]
+}
